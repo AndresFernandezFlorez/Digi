@@ -7,6 +7,5 @@ if($mysqli->connect_error){
 else{
 	echo "Funciona correcto";
 }
-// usuario de ingreso: yordis
-// contraseña de ingreso:yordis  
+
 ?>
